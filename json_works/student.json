@@ -1,0 +1,9 @@
+[
+
+    {"roll":123,"name":"hari","gender":"male","course":"ds"},
+    {"roll":223,"name":"harish","gender":"male","course":"django"},
+    {"roll":423,"name":"hari krishna","gender":"male","course":"testing"},
+    {"roll":523,"name":"yedhu","gender":"male","course":"django"},
+    {"roll":523,"name":"yedhu krishna","gender":"male","course":"testing"}
+
+]
